@@ -1,0 +1,15 @@
+C:\C#\C#Seminars\Homework3\bin\Debug\net7.0\Homework3.exe
+C:\C#\C#Seminars\Homework3\bin\Debug\net7.0\Homework3.deps.json
+C:\C#\C#Seminars\Homework3\bin\Debug\net7.0\Homework3.runtimeconfig.json
+C:\C#\C#Seminars\Homework3\bin\Debug\net7.0\Homework3.dll
+C:\C#\C#Seminars\Homework3\bin\Debug\net7.0\Homework3.pdb
+C:\C#\C#Seminars\Homework3\obj\Debug\net7.0\Homework3.csproj.AssemblyReference.cache
+C:\C#\C#Seminars\Homework3\obj\Debug\net7.0\Homework3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C#Seminars\Homework3\obj\Debug\net7.0\Homework3.AssemblyInfoInputs.cache
+C:\C#\C#Seminars\Homework3\obj\Debug\net7.0\Homework3.AssemblyInfo.cs
+C:\C#\C#Seminars\Homework3\obj\Debug\net7.0\Homework3.csproj.CoreCompileInputs.cache
+C:\C#\C#Seminars\Homework3\obj\Debug\net7.0\Homework3.dll
+C:\C#\C#Seminars\Homework3\obj\Debug\net7.0\refint\Homework3.dll
+C:\C#\C#Seminars\Homework3\obj\Debug\net7.0\Homework3.pdb
+C:\C#\C#Seminars\Homework3\obj\Debug\net7.0\Homework3.genruntimeconfig.cache
+C:\C#\C#Seminars\Homework3\obj\Debug\net7.0\ref\Homework3.dll
